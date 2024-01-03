@@ -1,0 +1,12 @@
+C:\Users\c3074479\source\repos\Project Start\bin\Release\Project Start.exe.config
+C:\Users\c3074479\source\repos\Project Start\bin\Release\Project Start.exe
+C:\Users\c3074479\source\repos\Project Start\bin\Release\Project Start.pdb
+C:\Users\c3074479\source\repos\Project Start\obj\Release\Project Start.csproj.AssemblyReference.cache
+C:\Users\c3074479\source\repos\Project Start\obj\Release\Project Start.csproj.SuggestedBindingRedirects.cache
+C:\Users\c3074479\source\repos\Project Start\obj\Release\GameboardGUI.GameboardImageArray.resources
+C:\Users\c3074479\source\repos\Project Start\obj\Release\Project_Start.ONellio.resources
+C:\Users\c3074479\source\repos\Project Start\obj\Release\Project_Start.Properties.Resources.resources
+C:\Users\c3074479\source\repos\Project Start\obj\Release\Project Start.csproj.GenerateResource.cache
+C:\Users\c3074479\source\repos\Project Start\obj\Release\Project Start.csproj.CoreCompileInputs.cache
+C:\Users\c3074479\source\repos\Project Start\obj\Release\Project Start.exe
+C:\Users\c3074479\source\repos\Project Start\obj\Release\Project Start.pdb
