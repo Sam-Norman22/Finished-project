@@ -1,4 +1,4 @@
-﻿using GameboardGUI;
+r﻿using GameboardGUI;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -36,7 +36,7 @@ namespace Project_Start
             Point top = new Point(10, 43);
             Point bottom = new Point(10, 75);
 
-            gameBoardData = this.MakeBoardArray();                                                                  //Initialize and create the gameboard
+            gameBoardData = this.MakeBoardArray();                                                                  //Initialize and create the gameboard, used from a starting material given to use
 
             try
             {
